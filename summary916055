@@ -1,0 +1,4 @@
+num of nodes,num of hiders,sim time,real duration,num of creations,average creation time,calibrated average,num of transmissions,average transmission time
+8,1,250000,0:04:59.692865,384,0,650642,2338,0
+8,2,250000,0:04:43.670240,427,0,574525,2261,0
+8,4,250000,0:04:42.563187,631,0,388322,2212,0

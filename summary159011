@@ -1,0 +1,4 @@
+num of nodes,num of hiders,sim time,real duration,num of creations,average creation time,calibrated average,num of transmissions,average transmission time,height,%orphans,non-orphan time
+2,1,200000,0:00:05.935395,25,320.0,230,18,320.15333333333336,18,0.28,444
+2,1,200000,0:00:05.908076,28,285.7142857142857,186,15,352.3226666666667,18,0.35714285714285715,444
+2,1,200000,0:00:05.802742,27,296.2962962962963,128,13,273.68,16,0.4074074074074074,500
